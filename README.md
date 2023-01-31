@@ -1,3 +1,3 @@
 # ils-online
 
-This is a test task for a frentend developer position.
+This is a test task for a frontend developer position.
