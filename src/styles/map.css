@@ -1,0 +1,15 @@
+#map {
+    height: 100vh;
+}
+
+.leaflet-container {
+    height: inherit;
+}
+
+.leaflet-pane {
+    z-index: auto;
+}
+
+.leaflet-top {
+    z-index: 0;
+}
