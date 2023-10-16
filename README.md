@@ -1,6 +1,6 @@
 # ils-online
 
-## [Реализация](https://andrey-trofimov.github.io/ils-online/)
+## [Реализация](https://andrey-trofimov.github.io/ils-online/){:target="_blank"}
 
 ## Описание задания
 
