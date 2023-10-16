@@ -1,6 +1,4 @@
-# ils-online
-
-## [Реализация](https://andrey-trofimov.github.io/ils-online/){:target="_blank"}
+# <a href="https://andrey-trofimov.github.io/ils-online/" target="_blank">ils-online</a>
 
 ## Описание задания
 
